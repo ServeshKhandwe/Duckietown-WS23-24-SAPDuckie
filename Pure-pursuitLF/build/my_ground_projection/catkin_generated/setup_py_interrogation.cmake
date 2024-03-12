@@ -1,0 +1,6 @@
+set(my_ground_projection_SETUP_PY_VERSION "1.0.0")
+set(my_ground_projection_SETUP_PY_SCRIPTS "")
+set(my_ground_projection_SETUP_PY_PACKAGES "my_ground_projection")
+set(my_ground_projection_SETUP_PY_PACKAGE_DIRS "include/my_ground_projection")
+set(my_ground_projection_SETUP_PY_MODULES "")
+set(my_ground_projection_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/code/catkin_ws/build/line_detector2/gtest/gtest/src -lpthread libgtest.so -lpthread -Wl,-rpath,/code/catkin_ws/build/line_detector2/gtest/gtest/src:/code/catkin_ws/build/line_detector2/gtest/gtest 
