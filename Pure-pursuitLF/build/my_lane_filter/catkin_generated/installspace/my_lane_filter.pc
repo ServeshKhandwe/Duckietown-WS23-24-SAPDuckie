@@ -1,8 +1,0 @@
-prefix=/code/catkin_ws/install
-
-Name: my_lane_filter
-Description: Description of my_lane_filter
-Version: 1.0.0
-Cflags: 
-Libs: -L/code/catkin_ws/install/lib 
-Requires: 

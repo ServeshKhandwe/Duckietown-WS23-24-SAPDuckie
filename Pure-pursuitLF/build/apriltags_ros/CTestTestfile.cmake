@@ -1,9 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /code/catkin_ws/src/dt-core/packages/apriltags_ros/apriltags_ros
-# Build directory: /code/catkin_ws/build/apriltags_ros
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-add_test(_ctest_apriltags_ros_rostest_tests_apriltags_postprocessing_tester_node.test "/code/catkin_ws/build/apriltags_ros/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/code/catkin_ws/build/apriltags_ros/test_results/apriltags_ros/rostest-tests_apriltags_postprocessing_tester_node.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/code/catkin_ws/src/dt-core/packages/apriltags_ros/apriltags_ros --package=apriltags_ros --results-filename tests_apriltags_postprocessing_tester_node.xml --results-base-dir \"/code/catkin_ws/build/apriltags_ros/test_results\" /code/catkin_ws/src/dt-core/packages/apriltags_ros/apriltags_ros/tests/apriltags_postprocessing_tester_node.test ")
-add_test(_ctest_apriltags_ros_rostest_tests_apriltags_integration_tester.test "/code/catkin_ws/build/apriltags_ros/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/code/catkin_ws/build/apriltags_ros/test_results/apriltags_ros/rostest-tests_apriltags_integration_tester.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/code/catkin_ws/src/dt-core/packages/apriltags_ros/apriltags_ros --package=apriltags_ros --results-filename tests_apriltags_integration_tester.xml --results-base-dir \"/code/catkin_ws/build/apriltags_ros/test_results\" /code/catkin_ws/src/dt-core/packages/apriltags_ros/apriltags_ros/tests/apriltags_integration_tester.test ")
-subdirs(gtest)

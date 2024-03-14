@@ -1,9 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /code/catkin_ws/src/dt-core/packages/indefinite_navigation
-# Build directory: /code/catkin_ws/build/indefinite_navigation
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-add_test(_ctest_indefinite_navigation_rostest_tests_calibrate_turn.test "/code/catkin_ws/build/indefinite_navigation/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/code/catkin_ws/build/indefinite_navigation/test_results/indefinite_navigation/rostest-tests_calibrate_turn.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/code/catkin_ws/src/dt-core/packages/indefinite_navigation --package=indefinite_navigation --results-filename tests_calibrate_turn.xml --results-base-dir \"/code/catkin_ws/build/indefinite_navigation/test_results\" /code/catkin_ws/src/dt-core/packages/indefinite_navigation/tests/calibrate_turn.test ")
-add_test(_ctest_indefinite_navigation_rostest_tests_calibrate_kinematics.test "/code/catkin_ws/build/indefinite_navigation/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/code/catkin_ws/build/indefinite_navigation/test_results/indefinite_navigation/rostest-tests_calibrate_kinematics.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/code/catkin_ws/src/dt-core/packages/indefinite_navigation --package=indefinite_navigation --results-filename tests_calibrate_kinematics.xml --results-base-dir \"/code/catkin_ws/build/indefinite_navigation/test_results\" /code/catkin_ws/src/dt-core/packages/indefinite_navigation/tests/calibrate_kinematics.test ")
-subdirs(gtest)
