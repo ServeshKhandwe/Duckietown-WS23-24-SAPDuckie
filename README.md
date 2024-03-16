@@ -1,4 +1,3 @@
-Certainly! Here's a template for a README file for your repository:
 DuckieBot Autonomous Navigation
 
 Welcome to the DuckieBot Autonomous Navigation repository! This repository contains the codebase for implementing various components of autonomous navigation for DuckieBots. From lane following to intersection navigation, this project aims to equip DuckieBots with the capability to navigate through environments autonomously.
